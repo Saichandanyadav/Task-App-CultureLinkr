@@ -82,6 +82,9 @@ cd your-repo-name
 - Use the Edit and Delete buttons to modify or remove tasks.
 - Follow me on LinkedIn for more updates by clicking the "Follow Me on LinkedIn" button.
 
+## Deployment:
+LIVE URL: https://task-app-culture-linkr-chandan.vercel.app/
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
