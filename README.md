@@ -84,6 +84,7 @@ cd your-repo-name
 
 ## Deployment:
 LIVE URL: https://task-app-culture-linkr-chandan.vercel.app/
+Backend URL: https://task-backend-culturelinkr-chandan.onrender.com/api/tasks
 
 ## Contributing
 
